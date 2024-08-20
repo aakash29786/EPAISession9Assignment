@@ -38,8 +38,3 @@ class Polygon():
     
     def perimeter (self):
         perimeter = self.num_edges * self.edge_length()
-
-poly = Polygon(6,8)
-poly2 = Polygon(5,8) 
-
-print (poly == poly2, poly> poly2,  poly.edges(), poly.apotheum(), poly.area() , repr(poly) , poly.interior_angle() , poly.edge_length())  
