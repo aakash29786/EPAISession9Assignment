@@ -18,5 +18,5 @@ e) perimeter
 # Plygon class  functionailites:
 1. a __repr__ function
 2. equality (==) based on # vertices and circumradius (__eq__)
-3. > based on number of vertices only (__gt__)
+3. ">" based on number of vertices only (__gt__)
 
